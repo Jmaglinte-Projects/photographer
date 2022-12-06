@@ -1,0 +1,6 @@
+#banner {
+  padding: 0 !important; }
+
+@media only screen and (max-width: 1300px) {
+  #banner .breadcrums {
+    background: #fff; } }

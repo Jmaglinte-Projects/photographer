@@ -1,0 +1,8 @@
+Link any to any files
+<?php echo get_bloginfo('template_directory'); ?>/
+
+//Front page
+is_front_page()
+
+//id or permalink
+is_page() 

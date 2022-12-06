@@ -1,0 +1,13 @@
+{
+  "name": "Pusoy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+	"test": "echo \"Error: no test specified\" && exit 1",
+	"watch-style": "node-sass --watch scss -o ./assets/css"
+  },
+  "dependencies": {
+    "node-sass": "^7.0.3"
+  }
+}
